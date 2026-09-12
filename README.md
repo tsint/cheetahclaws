@@ -29,7 +29,7 @@ English | [中文](docs/i18n/README.CN.MD) | [한국어](docs/i18n/README.KO.MD)
 pip install cheetahclaws
 ```
 
-Then just run:
+Then just run (e.g., using deepseek-v4-flash model):
 
 ```bash
 cheetahclaws        # start chatting!
